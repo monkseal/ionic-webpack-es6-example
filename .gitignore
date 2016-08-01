@@ -4,3 +4,8 @@
 node_modules/
 platforms/
 plugins/
+build/
+www/assets/*.woff
+www/assets/*.ttf
+www/assets/*.svg
+www/assets/*.eot
